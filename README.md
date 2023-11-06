@@ -1,7 +1,13 @@
-# DesafioJs-IEEE-
+# Projeto com HTML5, CSS3 e JavaScript para mudar a tela de acordo com o horário do dia.
 
-Desafio (Em JavaScript)
+# De Manhã
+![image](https://github.com/CainaZumaa/HoraDoDia.Js/assets/124850081/d885af17-d4b4-493e-956a-6828652ddd93)
 
-- Percorrer um array de objetos contendo uma série de nomes e idades e colocar os nomes que começam com a primeira letra do seu nome em um novo array contendo somente os nomes, e imprimir o resultado (Meu nome é Cainã)
+# De Tarde
+![image](https://github.com/CainaZumaa/HoraDoDia.Js/assets/124850081/c097fd7c-bc60-4bd6-b004-87fa39a3597f)
 
-- Calcular a média das idades das pessoas que começam com a primeira letra do seu nome, e imprimir o resultado.
+# De Noite
+![image](https://github.com/CainaZumaa/HoraDoDia.Js/assets/124850081/b42cd650-dcc6-4937-b380-f27ab103de8f)
+
+
+
